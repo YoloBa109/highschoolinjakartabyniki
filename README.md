@@ -2,7 +2,7 @@
 some projecs i made...
 
 
-SUNDAY MARCH 10th, 2024
+Sunday March 10th, 2024
 -----------------------
 REPOSITORY MADE
 
