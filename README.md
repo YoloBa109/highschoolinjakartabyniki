@@ -1,12 +1,12 @@
 # highschoolinjakartabyniki
 some projecs i made...
 
-<================================>
-SUNDAY MARCH 10TH, 2024
 
+SUNDAY MARCH 10TH, 2024
+-----------------------
 REPOSITORY MADE
 
-ADDING D&D DICE ROLLER
+D&D DICE ROLLER ADDED
 
 END LOG
-<================================>
+
