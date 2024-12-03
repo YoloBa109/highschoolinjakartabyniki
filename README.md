@@ -1,20 +1,5 @@
-# highschoolinjakartabyniki
-some projecs i made...
+# D&D RNG Dice Roller
 
+A Dice roller I made for a Dungeons and Dragons campaign which I was supposed to be part of and had no dice for.
 
-Sunday March 10th, 2024
------------------------
-REPOSITORY MADE
-
-D&D DICE ROLLER ADDED
-
-=====================
-
-personal notes:
-
-idk why i decided to make this repo, but I see everybody else doing shit like this so I might as well do it as well. I don't really have much to prove, not sure if I will. But hey, gotta keep rolling
-
-=====================
-
-END LOG
-
+Never was used but might as well push the code to a repo, cuz why not.
